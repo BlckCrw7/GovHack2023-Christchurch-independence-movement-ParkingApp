@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e4dfdf;
+}
+
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.userData {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.userBadge,
+.userRank {
+    margin: 0 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.userBadge {
+    background-color: gold;
+    color: #000;
+}
+
+.ownedVehicles,
+.orgName,
+.pointsEarned {
+    background-color: #dbdada;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+nav {
+    background-color: #007bff;
+    color: #f0e7e7;
+    padding: 30px;
+    text-align: center;
+}
+
+nav a {
+    color: #f0e7e7;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #7724a7;
+}
+
+.color {
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    color: #fff;
+    margin-left: 30px;
+}
+
+.red {
+    background-color: red;
+    color: #fff;
+    margin-left: 30px;
+}
+
+.silver {
+    background-color: silver;
+    color: #fff;
+    margin-left: 30px;
+}
+
+.purple {
+    background-color: purple;
+    color: #fff;
+    margin-left: 30px;
+}
